@@ -1,2 +1,2 @@
-# week01-starter-empty
-An empty repo to start
+# Week 01
+An empty repo to start.
